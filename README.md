@@ -1,7 +1,6 @@
 - 👋 Olá, eu sou @stylbandeira
 - 👀 Ainda tentando me sentir a vontade aqui
 - 🌱 Atualmente aprendendo PHP Laravel e JavaScript
-- 💞️ Espero logo em breve poder controbuir com alguns projetos
 - 📫 Email: stylbandeira@gmail.com
 
 <!---
