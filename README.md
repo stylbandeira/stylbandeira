@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou @stylbandeira
 - 👀 Tem muita coisa privada, um dia sem commit é um dia sem graça.
-- 🌱 Aperfeiçoando PHP Laravel e pegando outras coisas no caminho.
+- 🌱 Aperfeiçoando PHP Laravel e aprendendo React.
 - 📫 Email: stylbandeira@gmail.com
 
 <!---
